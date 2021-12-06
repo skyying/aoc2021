@@ -10,3 +10,4 @@ https://adventofcode.com/
 | 3  | [python](https://github.com/skyying/advent_of_code_2021/blob/master/src/day3/day3.py)  | golang  | typescript  |   |
 | 4  | [python](https://github.com/skyying/advent_of_code_2021/blob/master/src/day4/day4.py)  | golang  | typescript  |   |
 | 5  | [python](https://github.com/skyying/advent_of_code_2021/blob/master/src/day5/day5.py)  | golang  | typescript  |   |
+| 6  | [python](https://github.com/skyying/advent_of_code_2021/blob/master/src/day6/day6.py)  | golang  | typescript  |   |
