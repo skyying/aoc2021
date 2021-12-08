@@ -74,10 +74,10 @@ def part_two():
             decode(unknown_digit, decoded)
 
         cur_digit = ''
-        for unknown in four_digits:
-            for key, string in decoded.items():
-                if set(string) == set(unknown):
-                    cur_digit += str(key)
+        for unknown_digit in four_digits:
+            for value, known_digit in decoded.items():
+                if set(known_digit) == set(unknown_digit):
+                    cur_digit += str(value)
 
         total += int(cur_digit)
     return total
