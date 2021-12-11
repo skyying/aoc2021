@@ -1,12 +1,10 @@
-import sys
-
-sys.path.append('../')
+from utils.utils import *
 
 adjacent_units = [(1, 0), (-1, 0), (0, -1), (0, 1), (-1, -1), (1, 1), (-1, 1), (1, -1)]
 
 
 def get_inputs():
-    return [mapl(lambda x: int(x), line.strip()) for line in open('in')]
+    return [mapl(int, line.strip()) for line in open('in')]
 
 
 def is_valid_pos(grid, pos):
@@ -15,7 +13,7 @@ def is_valid_pos(grid, pos):
 
 
 def print_grid(grid):
-    print('\n'.join([','.join(mapl(lambda c: str(c), s)) for s in grid]))
+    print('\n'.join([','.join(mapl(str, s)) for s in grid]))
 
 
 def flush_octopuses(grid):

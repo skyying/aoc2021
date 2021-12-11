@@ -1,8 +1,5 @@
-import sys
+from utils.utils import *
 
-sys.path.append('../')
-
-#                           PART 1                           #
 puzzle_inputs_part_one = [line.strip().split(" | ")[1].strip().split() for line in open('in')]
 unique_len = [2, 4, 3, 7]
 

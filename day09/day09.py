@@ -1,11 +1,11 @@
 import sys
 from collections import deque
 
-sys.path.append('../')
+from utils.utils import *
 
 
 def parse_inputs():
-    return [mapl(lambda x: int(x), list(line.strip())) for line in open('in')]
+    return [mapl(int, list(line.strip())) for line in open('in')]
 
 
 # common

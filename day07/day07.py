@@ -5,7 +5,7 @@ max_size = sys.maxsize
 
 def read_positions():
     inputs = [line.strip().split(",") for line in open('in')]
-    return list(map(lambda x: int(x), inputs[0]))
+    return list(map(int, inputs[0]))
 
 
 def get_fuel(pos, move_to):

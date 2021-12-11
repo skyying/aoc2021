@@ -1,6 +1,6 @@
 def read_input():
     inputs = [line.strip().split(",") for line in open('in')]
-    return list(map(lambda x: int(x), inputs[0]))
+    return list(map(int, inputs[0]))
 
 
 ########################################################################
