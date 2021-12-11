@@ -14,3 +14,5 @@ https://adventofcode.com/
 | 7  | [python](https://github.com/skyying/advent_of_code_2021/blob/master/src/day7/day7.py)  | golang  | typescript  |   |
 | 8  | [python](https://github.com/skyying/advent_of_code_2021/blob/master/src/day8/day8.py)  | golang  | typescript  |   |
 | 9  | [python](https://github.com/skyying/advent_of_code_2021/blob/master/src/day9/day9.py)  | golang  | typescript  |   |
+|10  | [python](https://github.com/skyying/advent_of_code_2021/blob/master/src/day10/day10.py)  | golang  | typescript  |   |
+|11  | [python](https://github.com/skyying/advent_of_code_2021/blob/master/src/day11/day11.py)  | golang  | typescript  |   |
