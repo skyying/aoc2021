@@ -1,7 +1,6 @@
 import sys
 
-sys.path.append('../../')
-from src.utils.utils import *
+sys.path.append('../')
 
 #                           PART 1                           #
 puzzle_inputs_part_one = [line.strip().split(" | ")[1].strip().split() for line in open('in')]

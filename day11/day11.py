@@ -1,7 +1,6 @@
 import sys
 
-sys.path.append('../../')
-from src.utils.utils import *
+sys.path.append('../')
 
 adjacent_units = [(1, 0), (-1, 0), (0, -1), (0, 1), (-1, -1), (1, 1), (-1, 1), (1, -1)]
 

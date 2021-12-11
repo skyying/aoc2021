@@ -1,8 +1,7 @@
 import sys
 from collections import deque
 
-sys.path.append('../../')
-from src.utils.utils import *
+sys.path.append('../')
 
 
 def parse_inputs():
