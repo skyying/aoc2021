@@ -16,3 +16,6 @@ https://adventofcode.com/
 | 9  | [python](https://github.com/skyying/aoc2021/blob/master/day09/day09.py)  | golang  | typescript  |   |
 |10  | [python](https://github.com/skyying/aoc2021/blob/master/day10/day10.py)  | golang  | typescript  |   |
 |11  | [python](https://github.com/skyying/aoc2021/blob/master/day11/day11.py)  | golang  | typescript  |   |
+|12  | [python](https://github.com/skyying/aoc2021/blob/master/day12/day12.py)  | golang  | typescript  |   |
+|13  | [python](https://github.com/skyying/aoc2021/blob/master/day13/day13.py)  | golang  | typescript  |   |
+|14  | [python](https://github.com/skyying/aoc2021/blob/master/day14/day14.py)  | golang  | typescript  |   |
